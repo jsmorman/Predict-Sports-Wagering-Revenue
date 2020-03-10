@@ -1,3 +1,3 @@
-Predicting Sports Wagering Revenue
+Predict Sports Wagering Revenue
 
 (work in progress readme)
